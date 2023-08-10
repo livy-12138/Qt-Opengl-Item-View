@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/test_Widget">
+        <file>fragment.frag</file>
+        <file>vertice.vert</file>
+    </qresource>
+</RCC>
